@@ -1,2 +1,2 @@
 # python
-here is my python programs that i learned and made while doing a short internship
+here is my python program projects that i learned and made while doing a short internship
